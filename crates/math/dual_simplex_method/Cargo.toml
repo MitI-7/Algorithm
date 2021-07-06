@@ -1,0 +1,6 @@
+[package]
+name = "dual_simplex_method"
+version = "0.0.0"
+authors = ["MitI_7 <MitI_7@outlook.com>"]
+edition = "2018"
+publish = false
